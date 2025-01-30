@@ -26,6 +26,7 @@ Install Termux application and enable the permissions for storage manually and p
 ```bash
 apt update -y && apt upgrade -y
 apt install wget
+pkg install openjdk-17
 wget https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/decode.sh && bash decode.sh
 ```
 Thanks to fei-ke for his [omc-decoder project](https://github.com/fei-ke/OmcTextDecoder)
