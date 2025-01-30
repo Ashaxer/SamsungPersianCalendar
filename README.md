@@ -11,7 +11,9 @@ Each region features information are stored in your phone. you just have to edit
 # Step #1 Determining the CSC Region Code
 Check your CSC Region code in About Phone > Software Information > Service provider software version
 
-On my device it's LYS ![image](https://github.com/user-attachments/assets/bfc791ed-1d2f-4669-9b90-2c6a468c452f)
+On my device it's LYS
+
+![image](https://github.com/user-attachments/assets/bfc791ed-1d2f-4669-9b90-2c6a468c452f)
 
 
 # Step #2 Coping the XML file to Internal Storage
