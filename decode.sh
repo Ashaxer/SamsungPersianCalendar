@@ -1,11 +1,5 @@
 #!/bin/bash
-#Setup and Decode Script
-
-#Update soruces
-apt update -y & apt upgrade -y
-
-#Install java
-pkg install openjdk-17
+#Decode Script
 
 #Dwonload the decoder
 wget https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/omc-decoder.jar
