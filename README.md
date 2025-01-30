@@ -66,7 +66,7 @@ Voice Recording:
 # Step #5 Encoding the XML
 After saving your file, you have to re-encode the file using following command: (Also skip this step if you skipped Step #3)
 ```bash
-curl -O https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/decode.sh && bash encode.sh
+wget https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/decode.sh && bash encode.sh
 ```
 
 # Step #6 Putting the XML back to it's originate
