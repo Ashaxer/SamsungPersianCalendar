@@ -75,8 +75,9 @@ wget https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/encod
 Put the modified cscfeature.xml file back to it's original path and replace it.
 
 **!IMPORTANT!**
-**You have to fix the permission of the file you putted into original path.
 
-In my case it's permissions are -rw-r--r-- or 644**
+**You have to fix the permission of the file you putted into original path.**
+
+**In my case it's permissions are -rw-r--r-- or 644**
 
 Now you can reboot your phone and enjoy new featues ;)
