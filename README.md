@@ -24,7 +24,9 @@ Open the file using your prefered text editor, On Higher android versions the fi
 # Step #3 Decoding the XML
 Install Termux application and enable the permissions for storage manually and paste this command:
 ```bash
-curl -O https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/decode.sh && bash decode.sh
+apt update -y && apt upgrade -y
+apt install wget
+wget https://github.com/Ashaxer/SamsungPersianCalendar/raw/refs/heads/main/decode.sh && bash decode.sh
 ```
 Thanks to fei-ke for his [omc-decoder project](https://github.com/fei-ke/OmcTextDecoder)
 
