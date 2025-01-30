@@ -60,7 +60,7 @@ Persian Calendar:
 <CscFeature_Calendar_EnableLocalHolidayDisplay>FARSI</CscFeature_Calendar_EnableLocalHolidayDisplay>
 <CscFeature_Common_SupportPersianCalendar>TRUE</CscFeature_Common_SupportPersianCalendar>
 ```
-Voice Recording:
+VoiceCall Recording:
 ```xml
 <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
 ```
